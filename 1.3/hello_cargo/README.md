@@ -1,0 +1,1 @@
+Run `cargo new hello_cargo` to create a cargo project
